@@ -2,3 +2,5 @@
 
 Analyzing the readmission rate with 30 days in Diabetes 130-US Hospitals for years 1999-2008. Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/noravel/viz/ReadmissionRatebyNumProcedures/ReadmissionProject)
 
+![Dashboard](dashboard)
+
