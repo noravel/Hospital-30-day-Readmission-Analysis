@@ -32,6 +32,14 @@ Analyzing the readmission rate with 30 days in Diabetes 130-US Hospitals for yea
 
 ## Recommendation & Next Steps
 
+### For Case Management Teams
+- Priotize discharge planning for single procedure patients
+- Target Allergy/Immunology and Hematology patients with enhanced post-discharge care
+- Use procedure count + diagnosis count as quick screening criteria during discharge planning
+
+### Further Analysis
+- Calculate cost savings from preventing readmissions in identified high-risk segments
+- Expand predictive model to improve risk prediction accuracy beyond 55%
    
 
 
